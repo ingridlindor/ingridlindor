@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Ingrid Lindor  🎈
-**`Analista de Dados`**
+**`Data Analyst`**
 
-Me chamo Ingrid Lindo, tenho 26 anos e sou de São Paulo, SP. Sou formada em Analise e Desenvolvimento de Sistemas de de 2024 e trabalho atualmente na General Motors Financial como analista de sistemas
+My name is Ingrid Lindor, I'm 26 years old and I'm from São Paulo, Brazil. I graduated in Systems Analysis and Development in 2024 and currently work at General Motors Financial as a Systems Analyst.
 
 ---
 
