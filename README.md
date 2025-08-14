@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👩🏻‍💻 Ingrid Lindor  🎈
+**`Analista de Dados`**
 
-<!--
-**ingridlindor/ingridlindor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Ingrid Lindo, tenho 26 anos e sou de São Paulo, SP. Sou formada em Analise e Desenvolvimento de Sistemas de de 2024 e trabalho atualmente na General Motors Financial como analista de sistemas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+
+
+### 📊 Estatísticas
+<p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridlindor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
