@@ -6,5 +6,5 @@ My name is Ingrid Lindor, I'm 26 years old and I'm from São Paulo, Brazil. I gr
 ---
 
 ### 🤖 Languages & Technologies
-Python · SQL · Power BI · SAS · R · Power Automate · Git · Microsoft Power Apps
+Python · SQL · Power BI · SAS · R · Power Automate · Git · Microsoft Power Apps · AWS
 
